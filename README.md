@@ -1,3 +1,8 @@
-MD5 (sciencechain-cli.exe) = 777575f68c953c405d07a07a2a64dbbf
-MD5 (sciencechain-qt.exe) = 16c9555cf14fe0c59db76f8d01d8ddb3
-MD5 (sciencechaind.exe) = fe1f4ea8b00abd83724baa7320108134
+32/64bit Windows GUI Compiled on Windows 8
+
+MD5 (sciencechain-cli.exe) = b81e0329222ddeda7ecd5ddf4d9a2fa0
+
+MD5 (sciencechain-qt.exe) = cbd3516200a54277d005b75da177b9e7
+
+MD5 (sciencechaind.exe) = 2e14e5d4e6ffaaae4a01abcf2627d73b
+
